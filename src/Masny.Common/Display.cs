@@ -93,7 +93,7 @@ namespace Masny.Common
             Console.WriteLine("  -isp|--interface     show implementation of Interface Segregation Principle");
             Console.WriteLine("  -dip|--dependency    show implementation of Dependency Inversion Principle");
             Console.WriteLine("  -chn|--chain         show implementation of Chain of responsibility Pattern");
-            Console.WriteLine("  -cmd|--сommand       show implementation of Command Pattern");
+            Console.WriteLine("  -cmd|--command       show implementation of Command Pattern");
             Console.WriteLine("  -int|--interpreter   show implementation of Interpreter Pattern");
             Console.WriteLine("  -itr|--iterator      show implementation of Iterator Pattern");
             Console.WriteLine("  -mdt|--mediator      show implementation of Mediator Pattern");

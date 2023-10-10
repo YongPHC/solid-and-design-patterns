@@ -113,7 +113,7 @@ namespace Masny.ConsoleApp
 
                 #endregion SOLID Principles
 
-                #region Design Patters
+                #region Design Patterns
 
                 case "chain":
                     {
